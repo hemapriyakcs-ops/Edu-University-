@@ -1,0 +1,7 @@
+{
+  "name": "Copy of EduStream University Admissions",
+  "description": "A comprehensive college admission portal featuring course listings, a secure application form, and an AI-powered admission assistant.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
